@@ -1,0 +1,21 @@
+.Title {
+    background-color: rgba(111, 107, 107, 0.351);
+    opacity: 0.8;
+}
+
+.container {
+    background-image: url(./../../../public/glassesImage/background.jpg);
+    background-size: cover;
+}
+.header .glasses {
+    position: absolute;
+    left: 670px;
+    top: 210px;
+    width: 180px;
+}
+h1 {
+    color: red;
+}
+h2,p {
+    color: red;
+}
